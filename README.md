@@ -19,7 +19,7 @@ CGPA: 3.83 (Last 4 semesters: 3.93)
 Class rank: 4th out of 130 students
 ```
 
-My interest in computational materials science began through undergraduate metallurgy and developed further through my final-year research on high-entropy alloys.
+My interest in computational materials science began during my undergraduate metallurgy course and developed further through my final-year research on high-entropy alloys.
 
 ## What I Have Actually Done
 
