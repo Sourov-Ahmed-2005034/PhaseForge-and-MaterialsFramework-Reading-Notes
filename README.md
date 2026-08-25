@@ -12,7 +12,7 @@ My strongest current background is in atomistic simulation using LAMMPS. I have 
 
 I have completed my B.Sc. in Mechanical Engineering at KUET, Bangladesh, in August 2026.
 
-Current academic standing:
+Academic standing:
 
 ```text
 CGPA: 3.83 (Last 4 semesters: 3.93)
