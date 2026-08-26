@@ -6,7 +6,7 @@ This folder is a short record of how my current research experience connects wit
 
 It is not intended to show expertise in all areas of PhaseForge.
 
-My strongest current background is in atomistic simulation using LAMMPS. I have also recently completed small learning projects with pycalphad, CHGNet, and simple machine-learning regression. Topics such as full CALPHAD assessment, MLIP training, Bayesian uncertainty quantification, Inverse alloy design, active learning, and phase-field implementation are future learning directions rather than current research expertise.
+My strongest current background is in atomistic simulation using LAMMPS. I have also recently completed small learning projects with pycalphad, CHGNet, and simple machine-learning regression. Topics such as full CALPHAD assessment, MLIP training, Bayesian uncertainty quantification, active learning, and phase-field implementation are future learning directions rather than current research expertise.
 
 ## My Current Profile
 
