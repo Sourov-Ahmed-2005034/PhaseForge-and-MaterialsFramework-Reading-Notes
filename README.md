@@ -2,26 +2,26 @@
 
 ## Purpose
 
-This folder is a short record of how my current research experience connects with the PhaseForge PhD opportunity and which topics I would like to learn during graduate study.
+This folder documents how my current research background connects with the PhaseForge PhD opportunity and the areas I hope to develop during graduate study.
 
-It is not intended to show expertise in all areas of PhaseForge.
+My strongest experience is in atomistic simulation using LAMMPS. More recently, I have explored pycalphad, pretrained CHGNet, and simple machine-learning regression through small learning projects.
 
-My strongest current background is in atomistic simulation using LAMMPS. I have also recently completed small learning projects with pycalphad, CHGNet, and simple machine-learning regression. Topics such as full CALPHAD assessment, MLIP training, Bayesian uncertainty quantification, active learning, and phase-field implementation are future learning directions rather than current research expertise.
+I am not presenting this repository as evidence of expertise across PhaseForge. Topics such as full CALPHAD assessment, MLIP training, Bayesian uncertainty quantification, active learning, and phase-field modeling are areas I hope to learn rather than methods I have already used in research.
 
 ## My Current Profile
 
-I have completed my B.Sc. in Mechanical Engineering at KUET, Bangladesh, in August 2026.
+I completed my B.Sc. in Mechanical Engineering at Khulna University of Engineering & Technology (KUET), Bangladesh, in August 2026.
 
 Academic standing:
 
 ```text
 CGPA: 3.83 (Last 4 semesters: 3.93)
-Class rank: 4th out of 130 students
+Class rank: 4th out of 120 students
 ```
 
-My interest in computational materials science began during my undergraduate metallurgy course and developed further through my final-year research on high-entropy alloys.
+My interest in computational materials science began with undergraduate metallurgy and grew through my final-year research on high-entropy alloys.
 
-## What I Have Actually Done
+
 
 ### Undergraduate research
 
@@ -42,22 +42,26 @@ Using LAMMPS, I developed input scripts and carried out:
 - phonon density of states analysis;
 - mean-square displacement analysis.
 
-I have also recently generated a polycrystalline structure using Atomsk and Voronoi tessellation as an initial step toward studying grain-boundary effects.
+I have also started exploring polycrystalline structures generated with Atomsk and Voronoi tessellation as an initial step toward studying grain-boundary effects.
 
 ### Machine-learning coursework
 
-I completed a 60-hour Machine Learning with Python course through the EDGE program by the ICT department of Bangladesh Government.
+I completed a 60-hour Machine Learning with Python course through Bangladesh's EDGE program.
 
-This gave me an introductory foundation in Python-based machine learning, but I do not present it as research experience in scientific machine learning.
+The course gave me an introductory foundation in Python-based machine learning. I treat this as coursework experience, not research experience in scientific machine learning.
 
-### Recent self-directed computational projects
 
-I have recently explored two additional areas after learning about the PhaseForge opportunity:
 
-1. pycalphad-based binary phase-equilibrium calculations as an introduction to computational thermodynamics.
-2. A small Al-Co learning project using pretrained CHGNet for static energy prediction, a constrained formation-energy estimate, simple local structural descriptors, and Random Forest regression.
+### Recent Self-directed Learning Projects
 
-These are learning projects and not complete thermodynamic assessments or MLIP-development projects.
+After learning about the PhaseForge opportunity, I began exploring two areas that connect naturally with my atomistic background.  
+
+First, I used pycalphad for a small binary phase-equilibrium project to become familiar with basic computational thermodynamics.
+
+Second, I developed a small Al-Co workflow using a pretrained CHGNet model for static energy prediction, a constrained formation-energy estimate, simple structural descriptors, and Random Forest regression.
+
+Both are learning projects. They are not complete thermodynamic assessments or MLIP-development projects.  
+
 
 ## My Research Direction
 
@@ -120,7 +124,7 @@ This transition is the main reason the PhaseForge opportunity interests me.
 
 ## Why I Created This Folder
 
-The PhaseForge opportunity combines several areas that I have encountered at different stages of my undergraduate study:
+PhaseForge brings together several areas that I have encountered at different stages of my undergraduate study:
 
 ```text
 Physical metallurgy
@@ -132,9 +136,9 @@ Computational thermodynamics
 Machine learning
 ```
 
-I created this folder to organize the connection between what I already know and what I would need to learn for research in this direction.
+I created this folder to organize what I already understand, where my current experience fits, and what I still need to learn.
 
-The supporting notes are deliberately short. They focus on concepts I can explain at my present level and clearly separate them from topics that I have not yet implemented.
+The notes are intentionally short and stay within concepts I can explain at my present level.
 
 ## Files in This Folder
 
@@ -150,7 +154,7 @@ PhaseForge_Concept_Map/
 └── 06_My_Background_to_PhaseForge.md
 ```
 
-## What I Want to Learn in a PhD
+## What I Hope to Learn During a PhD
 
 My immediate interests are:
 
@@ -161,12 +165,12 @@ My immediate interests are:
 - how uncertainty can be attached to phase-stability predictions;
 - how active learning can guide the selection of new calculations.
 
-My longer-term interest is to connect thermodynamic modeling with microstructure prediction.
+In the longer term, I would also like to understand how thermodynamic modeling can be connected with microstructure prediction.  
 
-## Important Limitations
 
-This repository should not be interpreted as evidence that I have already implemented:
+## Current Limitations
 
+I have not yet implemented:
 - a full CALPHAD thermodynamic assessment;
 - thermodynamic database parameter fitting;
 - MLIP training;
@@ -178,24 +182,18 @@ This repository should not be interpreted as evidence that I have already implem
 - phase-field simulation;
 - agentic scientific systems.
 
-These are areas I would like to learn during graduate research.
+These are learning directions rather than current areas of expertise.  
 
-## Research Potential I Hope to Demonstrate
+## What I Hope This Repository Shows
 
-Through this repository and my coding projects, I hope to show three things:
+Through this repository and my other coding projects, I hope to show that:
 
-1. I already have practical experience building and debugging atomistic simulation workflows.
-2. I am actively extending that background toward computational thermodynamics and machine-learning-assisted materials modeling.
-3. I understand that my recent projects are introductory and that substantial training is still required for advanced PhaseForge research.
+I already have hands-on experience building and debugging atomistic simulation workflows.
+I am actively extending that background toward computational thermodynamics and machine-learning-assisted materials modeling.
+I understand the limits of my current experience and have a clear idea of what I want to learn next.  
 
-## Related Work
+  
 
-My GitHub portfolio includes projects related to:
-
-- AlxCoCrFeNi atomistic simulations using LAMMPS;
-- introductory computational thermodynamics with pycalphad;
-- Al-Co static energy prediction using pretrained CHGNet and simple regression.
-
-GitHub profile:
+**GitHub profile**  
 
 https://github.com/Sourov-Ahmed-2005034
