@@ -51,6 +51,15 @@ I completed a 60-hour Machine Learning with Python course through Bangladesh's E
 The course gave me an introductory foundation in Python-based machine learning. I treat this as coursework experience, not research experience in scientific machine learning.
 
 
+## Related Learning Resources
+
+As part of my preparation for this research direction, I attended the June 2026 Matlantis webinar, “Accelerating Computational Materials Design with CALPHAD, DFT, MLIPs, and AI Agents,” presented by Prof. Yu Zhong of Worcester Polytechnic Institute.
+
+The webinar gave me a clearer picture of how CALPHAD, first-principles calculations, machine-learning interatomic potentials, active learning, and automated computational workflows can work together in modern materials research.
+
+I see these topics as areas I would like to explore further, rather than methods in which I currently have hands-on research experience.
+
+   
 
 ### Recent Self-directed Learning Projects
 
